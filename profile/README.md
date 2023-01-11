@@ -1,19 +1,22 @@
-# Open Metaverse Interoperability Group (OMI)
-[![Club](https://img.shields.io/badge/project%20type-club-ff69b4)](https://project-types.github.io/#club)
-[![Discord](https://img.shields.io/discord/770382203782692945?label=Discord&logo=Discord)](https://discord.gg/NJtT9grz5E)
-[![Twitter Follow](https://img.shields.io/twitter/follow/open_metaverse)](https://twitter.com/open_metaverse)
+<p align="center">
+    <a href="https://enftr.io/#contact"><img alt="Contact" src="https://img.shields.io/badge/Team-Contact-green"></a>
+    <a href="https://www.apache.org/licenses/LICENSE-2.0"><img alt="Apache 2.0" src="https://img.shields.io/badge/license-Apache--2.0-%230A7BBB?style=flat"></a>
+    <a href="https://t.me/enversemetaverse"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-Members%20395-blue"></a>
+</p>
 
-The Open Metaverse Interoperability Group is focused on bridging virtual worlds by designing and promoting protocols for identity, social graphs, inventory, and more. Our members include businesses and individuals working towards this common goal. Aside from technical work, OMI aims to create a community of artists, creators, developers, and other innovators to discuss and explore concepts surrounding the design and development of virtual worlds.
+ENVERSE™ is an open source metaverse project seeking to incrementally bring about a truly free and open metaverse.
 
 ## OMI Core Values
 
-- We collaborate, driven by research, privacy and accessibility, to make the metaverse more human.
-- We work incrementally, iteratively, and with intent. 
-- We are creating a cooperative, sustainable culture of innovation. 
-- We empower the people making the metaverse.
-- We must cultivate resiliency by championing diversity, and freedom of choice.
+- Mobile, desktop, and VR support
+- Hundreds of users simultaneously
+- Full-body avatars
+- Script with JavaScript & TypeScript (coming soon)
+- Visual scripting (coming soon)
+- Full world editor (coming soon)
+- 4096km³ world space in a server
+- Fully self-hosted
+- Apache 2.0
 
 ## Getting involved 
-Check out our [omigroup/omigroup](https://github.com/omigroup/omigroup) repo for our active discussions, a detailed readme about our policies and working groups, and meta-tasks related to OMI itself. 
-
-We track all of our backlog items on the [OMI holistic board](https://github.com/orgs/omigroup/projects/7/views/2).
+Star repos and keep an eye at out for more info.

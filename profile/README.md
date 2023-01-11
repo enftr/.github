@@ -4,7 +4,7 @@
     <a href="https://t.me/enversemetaverse"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-Members%20395-blue"></a>
 </p>
 
-ENVERSE™ is an open source metaverse project seeking to incrementally bring about a truly free and open metaverse.
+ENVERSE™ U.A.M is the metaverse for African brands and creatives, providing easy onboarding for Web 2.0 and Web 3.0 projects in Africa across entertainment (Movies, Music, Games and Art), Education, Healthcare and Fin-Tech through it's highly immersive 3D experiences that connects both the physical & digital world (Phygital) thereby bridging the gap between African brands, Content creators & their local/global consumers.
 
 ## OMI Core Values
 

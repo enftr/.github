@@ -13,6 +13,7 @@ ENVERSE™ U.A.M is the metaverse for African brands and creatives, providing ea
 - Full-body avatars
 - Script with JavaScript & TypeScript (coming soon)
 - Blockchain support (coming soon)
+- Creator dashboard (coming soon)
 - Visual scripting (coming soon)
 - Full world editor (coming soon)
 - 4096km³ world space in a server

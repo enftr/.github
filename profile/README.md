@@ -6,7 +6,7 @@
 
 ENVERSE™ U.A.M is the metaverse for African brands and creatives, providing easy onboarding for Web 2.0 and Web 3.0 projects in Africa across entertainment (Movies, Music, Games and Art), Education, Healthcare and Fin-Tech through it's highly immersive 3D experiences that connects both the physical & digital world (Phygital) thereby bridging the gap between African brands, Content creators & their local/global consumers.
 
-## ENVERSE Features (Alpha Release Still Under Developemt)
+## ENVERSE Features (Alpha Release Still Under Development)
 
 - Mobile, desktop, and VR support
 - Hundreds of users simultaneously
